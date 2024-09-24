@@ -3,5 +3,11 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "editor.wordWrap": "on",
+    "explorer.autoOpenDroppedFile": true,
+    "explorer.expandSingleFolderWorkspaces": true,
+    "explorer.fileNesting.enabled": false,
+    "explorer.fileNesting.expand": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }
